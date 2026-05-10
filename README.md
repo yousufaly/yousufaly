@@ -1,20 +1,18 @@
 
 <h1 align="center">ENG.00BS </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Web+Dev+%7C+Python+%7C+C%2B%2B+%7C+Bash;Coding+is+my+dark+playground+%F0%9F%92%80;Welcome+to+my+shadow+realm..." alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me:
 
-- 🔥 I go by the name **DARQ.SHADOW** — where light fades, I begin.
-- 🧠 Languages in order: `Python` > `Back-End` > `PHP` > `C++` > `Java`
-- 💻 Fields: `Web Development`, `Python`, `C++`, `Bash`
-- 🕶️ I code from the shadows — automation, dark web research, backend wizardry.
-- 💡 I'm driven by chaos and creativity, blending logic with a touch of the forbidden.
-- 📍 From the depths of the digital abyss, I build systems that whisper in binary.
+- 🔥 I go by the name **ENG.00BS**.
+- 🧠 Languages in order: `Python` > `Back-End` > `PHP`
+- 💻 Fields: `Web Development`, `Python`, `Bash`
+- 🕶️ Backend Developer focused on Laravel, PHP and Automation.
+- 💡 Building scalable web systems and business applications.
+- 📍 Passionate about backend engineering, automation, modern web systems and web scraping.
 
 ---
 
@@ -51,7 +49,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
