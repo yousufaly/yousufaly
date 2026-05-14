@@ -18,9 +18,23 @@
 
 ## 📱 Contact Me:
 
-- 📸 Instagram: [youssefaly54](https://instagram.com/youssefaly54)
-- 💬 Telegram: [@Youssefaly921](https://t.me/Youssefaly921)
-- 📞 WhatsApp: [+201066346839](https://wa.me/201066346839)
+<p align="left">
+  <a href="https://instagram.com/youssefaly54">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
+  </a>
+
+  <a href="https://t.me/Youssefaly921">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="45"/>
+  </a>
+
+  <a href="https://wa.me/201066346839">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45"/>
+  </a>
+
+  <a href="https://discord.com/users/1219487166133047373">
+    <img src="https://skillicons.dev/icons?i=discord" width="45"/>
+  </a>
+</p>
 
 ---
 
