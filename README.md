@@ -23,10 +23,6 @@
     <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
   </a>
 
-  <a href="https://t.me/Youssefaly921">
-    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="45"/>
-  </a>
-
   <a href="https://wa.me/201066346839">
     <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45"/>
   </a>
